@@ -2358,7 +2358,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "Progetto di investimento pubblico di un ente pubblico (richiedente il CUP) per:  \n-l’acquisto di servizi di sviluppo (un progetto di ricerca, l’adeguamento di un software, un corso di formazione) con il pagamento, da parte dell’ente, dei costi richiesti dal venditore; \n-la realizzazione di servizi di sviluppo (un progetto di ricerca, l’adeguamento di un software, un corso di formazione) con il pagamento, da parte dell’ente, dei costi connessi alle attività realizzative; rientrano in questa casistica i servizi di progettazione di opere pubbliche, se tali attività sono definite in relazione a un quadro economico di spesa specifico, distinto dalla realizzazione dell’opera. (Delibera CIPE n. 63/2020)."
+    "@value" : "Progetto di investimento pubblico di un ente pubblico (richiedente il CUP) per: \n-l’acquisto di servizi di sviluppo (un progetto di ricerca, l’adeguamento di un software, un corso di formazione) con il pagamento, da parte dell’ente, dei costi richiesti dal venditore; \n-la realizzazione di servizi di sviluppo (un progetto di ricerca, l’adeguamento di un software, un corso di formazione) con il pagamento, da parte dell’ente, dei costi connessi alle attività realizzative; rientrano in questa casistica i servizi di progettazione di opere pubbliche, se tali attività sono definite in relazione a un quadro economico di spesa specifico, distinto dalla realizzazione dell’opera. (Delibera CIPE n. 63/2020)."
   }, {
     "@language" : "en",
     "@value" : "Public investment project by a public entity (applicant for the CUP) for:\n- the purchase of development services (a research project, software upgrades, a training course) with the entity paying the costs requested by the vendor;\n- the implementation of development services (a research project, software upgrades, a training course) with the entity paying the costs associated with the implementation activities; this category includes public works design services, if such activities are defined in relation to a specific economic expenditure framework, distinct from the construction of the work. (CIPE Resolution No. 63/2020)."
@@ -2563,7 +2563,7 @@
     "@value" : "An administrative act, including a regulatory act, adopted by a public administration (Article 1, paragraph 2, Legislative Decree no. 165/2001), which provides for public funding or authorizes the implementation of public investment projects. The same administrative act includes the CUP (which allows for the tracking and monitoring of the project itself) of the authorized projects in the spending program, indicating the funding granted under those measures, the effective date of that funding, and the total value of the individual investments. The act, which may take the form, for example, of a resolution, a management order, a decree, or a measure approving one or more rankings, is null and void in the absence of the corresponding CUP, which constitutes an essential element of the act itself (Article 11 bis, paragraph 2 bis, Law no. 3/2003; CIPE Resolution no. 54 of July 22, 2010)."
   }, {
     "@language" : "it",
-    "@value" : "Atto amministrativo anche di natura regolamentare, adottato da una pubblica amministrazione (art. 1, comma 2, d. lgs. n. 165/2001), che dispone il finanziamento pubblico o autorizza l'esecuzione di progetti di investimento pubblico. Nello stesso atto amministrativo, è associato il CUP (che permette di tracciare e monitorare il progetto stesso) dei progetti autorizzati al programma di spesa con l'indicazione dei finanziamenti concessi a valere su dette misure, della data di efficacia di detti finanziamenti e del valore complessivo dei singoli investimenti. L'atto, che si può esplicare, ad esempio, in una delibera, un provvedimento dirigenziale, un decreto, un provvedimento di approvazione di una o più graduatorie, è nullo in assenza del corrispondente CUP che costituisce elemento essenziale dell'atto stesso (art. 11 bis, comma 2 bis, L. n. 3/2003; Delibera CIPE n. 54 del 22 luglio 2010). "
+    "@value" : "Atto amministrativo anche di natura regolamentare, adottato da una pubblica amministrazione (art. 1, comma 2, d. lgs. n. 165/2001), che dispone il finanziamento pubblico o autorizza l'esecuzione di progetti di investimento pubblico. Nello stesso atto amministrativo, è associato il CUP (che permette di tracciare e monitorare il progetto stesso) dei progetti autorizzati al programma di spesa con l'indicazione dei finanziamenti concessi a valere su dette misure, della data di efficacia di detti finanziamenti e del valore complessivo dei singoli investimenti. L'atto, che si può esplicare, ad esempio, in una delibera, un provvedimento dirigenziale, un decreto, un provvedimento di approvazione di una o più graduatorie, è nullo in assenza del corrispondente CUP che costituisce elemento essenziale dell'atto stesso (art. 11 bis, comma 2 bis, L. n. 3/2003; Delibera CIPE n. 54 del 22 luglio 2010)."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "it",
@@ -3347,7 +3347,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "it",
-    "@value" : "La condizione di un atto amministrativo di finanziamento/autorizzazione di investimenti pubblici che possiede le caratteristiche necessarie per identificare un intervento/progetto, che l’amministrazione titolare manifesta di voler realizzare. "
+    "@value" : "La condizione di un atto amministrativo di finanziamento/autorizzazione di investimenti pubblici che possiede le caratteristiche necessarie per identificare un intervento/progetto, che l’amministrazione titolare manifesta di voler realizzare."
   }, {
     "@language" : "en",
     "@value" : "The condition of an administrative act of financing/authorization of public investments that possesses the characteristics necessary to identify an intervention/project, which the owner administration declares it wishes to implement."
@@ -5679,10 +5679,10 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://dati.gov.it/onto/dcatapit#Standard", "http://purl.org/dc/terms/Standard" ],
   "http://purl.org/dc/terms/description" : [ {
     "@language" : "it",
-    "@value" : "Simple Knowledge Organization System (SKOS) è un modello di dati comune per la condivisione e il collegamento di sistemi di organizzazione della conoscenza tramite il Web. "
+    "@value" : "Simple Knowledge Organization System (SKOS) è un modello di dati comune per la condivisione e il collegamento di sistemi di organizzazione della conoscenza tramite il Web."
   }, {
     "@language" : "en",
-    "@value" : "The Simple Knowledge Organization System (SKOS) is a common data model for sharing and linking knowledge organization systems via the Web. "
+    "@value" : "The Simple Knowledge Organization System (SKOS) is a common data model for sharing and linking knowledge organization systems via the Web."
   } ],
   "http://purl.org/dc/terms/identifier" : [ {
     "@value" : "SKOS"

@@ -319,7 +319,7 @@
               <subject>https://w3id.org/italia/onto/OpenCUP/Acquisto_o_realizzazione_di_servizi</subject>
               <property>http://www.w3.org/2000/01/rdf-schema#comment</property>
               <object>
-                <lexicalForm>Progetto di investimento pubblico di un ente pubblico (richiedente il CUP) per:  
+                <lexicalForm>Progetto di investimento pubblico di un ente pubblico (richiedente il CUP) per: 
 -l’acquisto di servizi di sviluppo (un progetto di ricerca, l’adeguamento di un software, un corso di formazione) con il pagamento, da parte dell’ente, dei costi richiesti dal venditore; 
 -la realizzazione di servizi di sviluppo (un progetto di ricerca, l’adeguamento di un software, un corso di formazione) con il pagamento, da parte dell’ente, dei costi connessi alle attività realizzative; rientrano in questa casistica i servizi di progettazione di opere pubbliche, se tali attività sono definite in relazione a un quadro economico di spesa specifico, distinto dalla realizzazione dell’opera. (Delibera CIPE n. 63/2020).</lexicalForm>
                 <datatype>None</datatype>
@@ -754,7 +754,7 @@
               <subject>https://w3id.org/italia/onto/OpenCUP/Atto_finanziamento_investimento_pubblico</subject>
               <property>http://www.w3.org/2000/01/rdf-schema#comment</property>
               <object>
-                <lexicalForm>Atto amministrativo anche di natura regolamentare, adottato da una pubblica amministrazione (art. 1, comma 2, d. lgs. n. 165/2001), che dispone il finanziamento pubblico o autorizza l'esecuzione di progetti di investimento pubblico. Nello stesso atto amministrativo, è associato il CUP (che permette di tracciare e monitorare il progetto stesso) dei progetti autorizzati al programma di spesa con l'indicazione dei finanziamenti concessi a valere su dette misure, della data di efficacia di detti finanziamenti e del valore complessivo dei singoli investimenti. L'atto, che si può esplicare, ad esempio, in una delibera, un provvedimento dirigenziale, un decreto, un provvedimento di approvazione di una o più graduatorie, è nullo in assenza del corrispondente CUP che costituisce elemento essenziale dell'atto stesso (art. 11 bis, comma 2 bis, L. n. 3/2003; Delibera CIPE n. 54 del 22 luglio 2010). </lexicalForm>
+                <lexicalForm>Atto amministrativo anche di natura regolamentare, adottato da una pubblica amministrazione (art. 1, comma 2, d. lgs. n. 165/2001), che dispone il finanziamento pubblico o autorizza l'esecuzione di progetti di investimento pubblico. Nello stesso atto amministrativo, è associato il CUP (che permette di tracciare e monitorare il progetto stesso) dei progetti autorizzati al programma di spesa con l'indicazione dei finanziamenti concessi a valere su dette misure, della data di efficacia di detti finanziamenti e del valore complessivo dei singoli investimenti. L'atto, che si può esplicare, ad esempio, in una delibera, un provvedimento dirigenziale, un decreto, un provvedimento di approvazione di una o più graduatorie, è nullo in assenza del corrispondente CUP che costituisce elemento essenziale dell'atto stesso (art. 11 bis, comma 2 bis, L. n. 3/2003; Delibera CIPE n. 54 del 22 luglio 2010).</lexicalForm>
                 <datatype>None</datatype>
                 <language>it</language>
               </object>
@@ -2349,7 +2349,7 @@ The project owner and the CUP requester are the same, except in the case of a CU
               <subject>https://w3id.org/italia/onto/OpenCUP/Stato_di_correttezza_di_atto_di_finanziamento</subject>
               <property>http://www.w3.org/2000/01/rdf-schema#comment</property>
               <object>
-                <lexicalForm>La condizione di un atto amministrativo di finanziamento/autorizzazione di investimenti pubblici che possiede le caratteristiche necessarie per identificare un intervento/progetto, che l’amministrazione titolare manifesta di voler realizzare. </lexicalForm>
+                <lexicalForm>La condizione di un atto amministrativo di finanziamento/autorizzazione di investimenti pubblici che possiede le caratteristiche necessarie per identificare un intervento/progetto, che l’amministrazione titolare manifesta di voler realizzare.</lexicalForm>
                 <datatype>None</datatype>
                 <language>it</language>
               </object>
