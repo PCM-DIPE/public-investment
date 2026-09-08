@@ -84,8 +84,8 @@
     dct:identifier "SKOS" ;
     foaf:name "Simple Knowledge Organization System (SKOS)"@en ;
     dct:title "Simple Knowledge Organization System - SKOS" ;
-    dct:description "Simple Knowledge Organization System (SKOS) è un modello di dati comune per la condivisione e il collegamento di sistemi di organizzazione della conoscenza tramite il Web. "@it,
-	                "The Simple Knowledge Organization System (SKOS) is a common data model for sharing and linking knowledge organization systems via the Web. "@en . 
+    dct:description "Simple Knowledge Organization System (SKOS) è un modello di dati comune per la condivisione e il collegamento di sistemi di organizzazione della conoscenza tramite il Web."@it,
+	                "The Simple Knowledge Organization System (SKOS) is a common data model for sharing and linking knowledge organization systems via the Web."@en . 
 
 
 <https://w3id.org/italia/data/distribution/classificazione_intervento_RDF_Turtle>
@@ -536,10 +536,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Settore_di_intervento/3_2" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/3_3_6> a :Sottosettore_di_intervento;
-  rdfs:label "PRODUZIONE  DI ENERGIA"@it;
+  rdfs:label "PRODUZIONE DI ENERGIA"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "6";
-  skos:prefLabel "PRODUZIONE  DI ENERGIA"@it;
+  skos:prefLabel "PRODUZIONE DI ENERGIA"@it;
   skos:narrower "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/3_3_6_1",
     "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/3_3_6_61", "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/3_3_6_62",
     "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/3_3_6_69", "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/3_3_6_998",
@@ -609,10 +609,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Settore_di_intervento/4_6" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_6_13> a :Sottosettore_di_intervento;
-  rdfs:label "OPERE,  IMPIANTI ED ATTREZZATURE PER L'AGRICOLTURA, LA ZOOTECNIA E L'AGROALIMENTARE "@it;
+  rdfs:label "OPERE, IMPIANTI ED ATTREZZATURE PER L'AGRICOLTURA, LA ZOOTECNIA E L'AGROALIMENTARE"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "13";
-  skos:prefLabel "OPERE,  IMPIANTI ED ATTREZZATURE PER L'AGRICOLTURA, LA ZOOTECNIA E L'AGROALIMENTARE "@it;
+  skos:prefLabel "OPERE, IMPIANTI ED ATTREZZATURE PER L'AGRICOLTURA, LA ZOOTECNIA E L'AGROALIMENTARE"@it;
   skos:narrower "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_6_13_26",
     "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_6_13_27", "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_6_13_30",
     "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_6_13_31", "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_6_13_32",
@@ -629,10 +629,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Settore_di_intervento/4_6" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_6_14> a :Sottosettore_di_intervento;
-  rdfs:label "IMPIANTI  ED ATTREZZATURE PER LA PESCA E L'ACQUACOLTURA"@it;
+  rdfs:label "IMPIANTI ED ATTREZZATURE PER LA PESCA E L'ACQUACOLTURA"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "14";
-  skos:prefLabel "IMPIANTI  ED ATTREZZATURE PER LA PESCA E L'ACQUACOLTURA"@it;
+  skos:prefLabel "IMPIANTI ED ATTREZZATURE PER LA PESCA E L'ACQUACOLTURA"@it;
   skos:narrower "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_6_14_139",
     "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_6_14_143", "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_6_14_144",
     "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_6_14_145", "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_6_14_999";
@@ -846,10 +846,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Settore_di_intervento/5_8" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/5_8_62> a :Sottosettore_di_intervento;
-  rdfs:label "PROGETTI DI RICERCA E  DI INNOVAZIONE PRESSO IMPRESE"@it;
+  rdfs:label "PROGETTI DI RICERCA E DI INNOVAZIONE PRESSO IMPRESE"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "62";
-  skos:prefLabel "PROGETTI DI RICERCA E  DI INNOVAZIONE PRESSO IMPRESE"@it;
+  skos:prefLabel "PROGETTI DI RICERCA E DI INNOVAZIONE PRESSO IMPRESE"@it;
   skos:narrower "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/5_8_62_621",
     "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/5_8_62_622", "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/5_8_62_623",
     "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/5_8_62_624", "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/5_8_62_625",
@@ -1168,10 +1168,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_6_43" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_9_20_201> a :Categoria_di_intervento;
-  rdfs:label "CONSULENZA E ASSISTENZA  ALLA GESTIONE DI IMPRESE AGRICOLE E FORESTALI"@it;
+  rdfs:label "CONSULENZA E ASSISTENZA ALLA GESTIONE DI IMPRESE AGRICOLE E FORESTALI"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "201";
-  skos:prefLabel "CONSULENZA E ASSISTENZA  ALLA GESTIONE DI IMPRESE AGRICOLE E FORESTALI"@it;
+  skos:prefLabel "CONSULENZA E ASSISTENZA ALLA GESTIONE DI IMPRESE AGRICOLE E FORESTALI"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_9_20" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_9_20_202> a :Categoria_di_intervento;
@@ -1210,10 +1210,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_9_20" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_9_20_208> a :Categoria_di_intervento;
-  rdfs:label "SERVIZI PER LA TRASFORMAZIONE, COMMERCIALIZZAZIONE E PROMOZIONE DEI PRODOTTI DELLA PESCA E DELL'ACQUACOLTURA "@it;
+  rdfs:label "SERVIZI PER LA TRASFORMAZIONE, COMMERCIALIZZAZIONE E PROMOZIONE DEI PRODOTTI DELLA PESCA E DELL'ACQUACOLTURA"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "208";
-  skos:prefLabel "SERVIZI PER LA TRASFORMAZIONE, COMMERCIALIZZAZIONE E PROMOZIONE DEI PRODOTTI DELLA PESCA E DELL'ACQUACOLTURA "@it;
+  skos:prefLabel "SERVIZI PER LA TRASFORMAZIONE, COMMERCIALIZZAZIONE E PROMOZIONE DEI PRODOTTI DELLA PESCA E DELL'ACQUACOLTURA"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_9_20" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_9_20_210> a :Categoria_di_intervento;
@@ -1231,10 +1231,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_9_20" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_9_20_212> a :Categoria_di_intervento;
-  rdfs:label "PROMOZIONE E INFORMAZIONE DEI PRODOTTI "@it;
+  rdfs:label "PROMOZIONE E INFORMAZIONE DEI PRODOTTI"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "212";
-  skos:prefLabel "PROMOZIONE E INFORMAZIONE DEI PRODOTTI "@it;
+  skos:prefLabel "PROMOZIONE E INFORMAZIONE DEI PRODOTTI"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_9_20" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_9_20_213> a :Categoria_di_intervento;
@@ -1259,10 +1259,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_9_20" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_9_20_216> a :Categoria_di_intervento;
-  rdfs:label "ALTRI SERVIZI ALLE IMPRESE AGRICOLE, FORESTALI,  DELLA PESCA E ACQUACOLTURA"@it;
+  rdfs:label "ALTRI SERVIZI ALLE IMPRESE AGRICOLE, FORESTALI, DELLA PESCA E ACQUACOLTURA"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "216";
-  skos:prefLabel "ALTRI SERVIZI ALLE IMPRESE AGRICOLE, FORESTALI,  DELLA PESCA E ACQUACOLTURA"@it;
+  skos:prefLabel "ALTRI SERVIZI ALLE IMPRESE AGRICOLE, FORESTALI, DELLA PESCA E ACQUACOLTURA"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_9_20" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_9_20_217> a :Categoria_di_intervento;
@@ -1385,10 +1385,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_9_25" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_9_25_233> a :Categoria_di_intervento;
-  rdfs:label "SERVIZI PER L'INTERNAZIONALIZZAZIONE E PROMOZIONE EXPORT "@it;
+  rdfs:label "SERVIZI PER L'INTERNAZIONALIZZAZIONE E PROMOZIONE EXPORT"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "233";
-  skos:prefLabel "SERVIZI PER L'INTERNAZIONALIZZAZIONE E PROMOZIONE EXPORT "@it;
+  skos:prefLabel "SERVIZI PER L'INTERNAZIONALIZZAZIONE E PROMOZIONE EXPORT"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_9_25" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_9_25_239> a :Categoria_di_intervento;
@@ -1763,10 +1763,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/5_7_17" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/5_7_17_172> a :Categoria_di_intervento;
-  rdfs:label "CAVIDOTTI, ALTRE OPERE CIVILI DI CABLAGGIO  E CENTRALINE"@it;
+  rdfs:label "CAVIDOTTI, ALTRE OPERE CIVILI DI CABLAGGIO E CENTRALINE"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "172";
-  skos:prefLabel "CAVIDOTTI, ALTRE OPERE CIVILI DI CABLAGGIO  E CENTRALINE"@it;
+  skos:prefLabel "CAVIDOTTI, ALTRE OPERE CIVILI DI CABLAGGIO E CENTRALINE"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/5_7_17" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/5_7_17_173> a :Categoria_di_intervento;
@@ -1896,10 +1896,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/5_8_60" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/5_8_60_630> a :Categoria_di_intervento;
-  rdfs:label "PRODUZIONE/PROGETTI PER LA DIVERSIFICAZIONE DELLE ATTIVITA' "@it;
+  rdfs:label "PRODUZIONE/PROGETTI PER LA DIVERSIFICAZIONE DELLE ATTIVITA'"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "630";
-  skos:prefLabel "PRODUZIONE/PROGETTI PER LA DIVERSIFICAZIONE DELLE ATTIVITA' "@it;
+  skos:prefLabel "PRODUZIONE/PROGETTI PER LA DIVERSIFICAZIONE DELLE ATTIVITA'"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/5_8_60" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/5_8_60_631> a :Categoria_di_intervento;
@@ -2309,10 +2309,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/1_5_30" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/1_5_31_1> a :Categoria_di_intervento;
-  rdfs:label "CHIESE "@it;
+  rdfs:label "CHIESE"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "1";
-  skos:prefLabel "CHIESE "@it;
+  skos:prefLabel "CHIESE"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/1_5_31" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/1_5_31_2> a :Categoria_di_intervento;
@@ -2498,10 +2498,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/1_5_99" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/1_5_99_999> a :Categoria_di_intervento;
-  rdfs:label "ALTRE INFRASTRUTTURE "@it;
+  rdfs:label "ALTRE INFRASTRUTTURE"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "999";
-  skos:prefLabel "ALTRE INFRASTRUTTURE "@it;
+  skos:prefLabel "ALTRE INFRASTRUTTURE"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/1_5_99" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/2_1_1_11> a :Categoria_di_intervento;
@@ -2638,10 +2638,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/2_1_5" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/2_1_5_36> a :Categoria_di_intervento;
-  rdfs:label "SISTEMI INTEGRATI E DI TRASPORTO INTELLIGENTI PER LA MOBILITA' SOSTENIBILE "@it;
+  rdfs:label "SISTEMI INTEGRATI E DI TRASPORTO INTELLIGENTI PER LA MOBILITA' SOSTENIBILE"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "36";
-  skos:prefLabel "SISTEMI INTEGRATI E DI TRASPORTO INTELLIGENTI PER LA MOBILITA' SOSTENIBILE "@it;
+  skos:prefLabel "SISTEMI INTEGRATI E DI TRASPORTO INTELLIGENTI PER LA MOBILITA' SOSTENIBILE"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/2_1_5" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/2_1_5_157> a :Categoria_di_intervento;
@@ -2855,10 +2855,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/3_2_15" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/3_2_15_117> a :Categoria_di_intervento;
-  rdfs:label "DISSALATORI  E STRUTTURE/INFRASTRUTTURE PER LA  POTABILIZZAZIONE"@it;
+  rdfs:label "DISSALATORI E STRUTTURE/INFRASTRUTTURE PER LA POTABILIZZAZIONE"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "117";
-  skos:prefLabel "DISSALATORI  E STRUTTURE/INFRASTRUTTURE PER LA  POTABILIZZAZIONE"@it;
+  skos:prefLabel "DISSALATORI E STRUTTURE/INFRASTRUTTURE PER LA POTABILIZZAZIONE"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/3_2_15" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/3_2_15_118> a :Categoria_di_intervento;
@@ -2988,10 +2988,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/3_3_16" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/3_3_16_65> a :Categoria_di_intervento;
-  rdfs:label "IMPIANTI DI  TRASMISSIONE DI ENERGIA ELETTRICA"@it;
+  rdfs:label "IMPIANTI DI TRASMISSIONE DI ENERGIA ELETTRICA"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "65";
-  skos:prefLabel "IMPIANTI DI  TRASMISSIONE DI ENERGIA ELETTRICA"@it;
+  skos:prefLabel "IMPIANTI DI TRASMISSIONE DI ENERGIA ELETTRICA"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/3_3_16" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/3_3_16_66> a :Categoria_di_intervento;
@@ -3198,10 +3198,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_11_75" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_11_75_820> a :Categoria_di_intervento;
-  rdfs:label "INCENTIVI ALLE IMPRESE PER NUOVE ASSUNZIONI "@it;
+  rdfs:label "INCENTIVI ALLE IMPRESE PER NUOVE ASSUNZIONI"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "820";
-  skos:prefLabel "INCENTIVI ALLE IMPRESE PER NUOVE ASSUNZIONI "@it;
+  skos:prefLabel "INCENTIVI ALLE IMPRESE PER NUOVE ASSUNZIONI"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_11_75" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_11_75_821> a :Categoria_di_intervento;
@@ -3268,10 +3268,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_4_39" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_4_39_145> a :Categoria_di_intervento;
-  rdfs:label "SISTEMAZIONE DEI TERRENI E RICONVERSIONE AREE INDUSTRIALI "@it;
+  rdfs:label "SISTEMAZIONE DEI TERRENI E RICONVERSIONE AREE INDUSTRIALI"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "145";
-  skos:prefLabel "SISTEMAZIONE DEI TERRENI E RICONVERSIONE AREE INDUSTRIALI "@it;
+  skos:prefLabel "SISTEMAZIONE DEI TERRENI E RICONVERSIONE AREE INDUSTRIALI"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_4_39" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_4_39_999> a :Categoria_di_intervento;
@@ -3317,10 +3317,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_6_13" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_6_13_33> a :Categoria_di_intervento;
-  rdfs:label "CREAZIONE NUOVE FORME DI COOPERAZIONE PRODUTTIVA E COMMERCIALE "@it;
+  rdfs:label "CREAZIONE NUOVE FORME DI COOPERAZIONE PRODUTTIVA E COMMERCIALE"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "33";
-  skos:prefLabel "CREAZIONE NUOVE FORME DI COOPERAZIONE PRODUTTIVA E COMMERCIALE "@it;
+  skos:prefLabel "CREAZIONE NUOVE FORME DI COOPERAZIONE PRODUTTIVA E COMMERCIALE"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_6_13" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_6_13_34> a :Categoria_di_intervento;
@@ -3331,17 +3331,17 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_6_13" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_6_13_35> a :Categoria_di_intervento;
-  rdfs:label "TRASFERIMENTO  DELL'AZIENDA A UN ALTRO AGRICOLTORE"@it;
+  rdfs:label "TRASFERIMENTO DELL'AZIENDA A UN ALTRO AGRICOLTORE"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "35";
-  skos:prefLabel "TRASFERIMENTO  DELL'AZIENDA A UN ALTRO AGRICOLTORE"@it;
+  skos:prefLabel "TRASFERIMENTO DELL'AZIENDA A UN ALTRO AGRICOLTORE"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_6_13" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_6_13_36> a :Categoria_di_intervento;
-  rdfs:label "SVILUPPO  E SOSTEGNO DI FORME ASSOCIATIVE"@it;
+  rdfs:label "SVILUPPO E SOSTEGNO DI FORME ASSOCIATIVE"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "36";
-  skos:prefLabel "SVILUPPO  E SOSTEGNO DI FORME ASSOCIATIVE"@it;
+  skos:prefLabel "SVILUPPO E SOSTEGNO DI FORME ASSOCIATIVE"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_6_13" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_6_13_37> a :Categoria_di_intervento;
@@ -3513,17 +3513,17 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_6_2" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_6_2_6> a :Categoria_di_intervento;
-  rdfs:label "MEZZI ED IMPIANTI PER LA PREVENZIONE E IL RIPRISTINO DA CALAMITA' NATURALI "@it;
+  rdfs:label "MEZZI ED IMPIANTI PER LA PREVENZIONE E IL RIPRISTINO DA CALAMITA' NATURALI"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "6";
-  skos:prefLabel "MEZZI ED IMPIANTI PER LA PREVENZIONE E IL RIPRISTINO DA CALAMITA' NATURALI "@it;
+  skos:prefLabel "MEZZI ED IMPIANTI PER LA PREVENZIONE E IL RIPRISTINO DA CALAMITA' NATURALI"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_6_2" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_6_2_7> a :Categoria_di_intervento;
-  rdfs:label "ATTREZZATURE, MACCHINARI E MEZZI TECNICI PER IL LAVORO FORESTALE "@it;
+  rdfs:label "ATTREZZATURE, MACCHINARI E MEZZI TECNICI PER IL LAVORO FORESTALE"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "7";
-  skos:prefLabel "ATTREZZATURE, MACCHINARI E MEZZI TECNICI PER IL LAVORO FORESTALE "@it;
+  skos:prefLabel "ATTREZZATURE, MACCHINARI E MEZZI TECNICI PER IL LAVORO FORESTALE"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/4_6_2" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/4_6_2_33> a :Categoria_di_intervento;
@@ -3541,10 +3541,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/6_10_3" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/6_10_3_5> a :Categoria_di_intervento;
-  rdfs:label "SEMPLIFICAZIONE PROCEDURE, STANDARD DI QUALITA' E INNOVAZIONE PA "@it;
+  rdfs:label "SEMPLIFICAZIONE PROCEDURE, STANDARD DI QUALITA' E INNOVAZIONE PA"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "5";
-  skos:prefLabel "SEMPLIFICAZIONE PROCEDURE, STANDARD DI QUALITA' E INNOVAZIONE PA "@it;
+  skos:prefLabel "SEMPLIFICAZIONE PROCEDURE, STANDARD DI QUALITA' E INNOVAZIONE PA"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/6_10_3" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/6_10_3_6> a :Categoria_di_intervento;
@@ -3569,10 +3569,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/6_10_30" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/6_10_30_2> a :Categoria_di_intervento;
-  rdfs:label "COSTRUZIONE  E SPERIMENTAZIONE DI PROTOTIPI E MODELLI"@it;
+  rdfs:label "COSTRUZIONE E SPERIMENTAZIONE DI PROTOTIPI E MODELLI"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "2";
-  skos:prefLabel "COSTRUZIONE  E SPERIMENTAZIONE DI PROTOTIPI E MODELLI"@it;
+  skos:prefLabel "COSTRUZIONE E SPERIMENTAZIONE DI PROTOTIPI E MODELLI"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/6_10_30" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/6_10_30_3> a :Categoria_di_intervento;
@@ -3765,10 +3765,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/6_10_34" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/6_10_35_1> a :Categoria_di_intervento;
-  rdfs:label " COSTRUZIONE E SPERIMENTAZIONE DI PROTOTIPI E MODELLI"@it;
+  rdfs:label "COSTRUZIONE E SPERIMENTAZIONE DI PROTOTIPI E MODELLI"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "1";
-  skos:prefLabel " COSTRUZIONE E SPERIMENTAZIONE DI PROTOTIPI E MODELLI"@it;
+  skos:prefLabel "COSTRUZIONE E SPERIMENTAZIONE DI PROTOTIPI E MODELLI"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/6_10_35" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/6_10_35_2> a :Categoria_di_intervento;
@@ -3849,10 +3849,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/6_10_41" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/6_10_41_413> a :Categoria_di_intervento;
-  rdfs:label "FORMAZIONE DEL PERSONALE  (INCLUSA L'ALFABETIZZAZIONE DIGITALE)"@it;
+  rdfs:label "FORMAZIONE DEL PERSONALE (INCLUSA L'ALFABETIZZAZIONE DIGITALE)"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "413";
-  skos:prefLabel "FORMAZIONE DEL PERSONALE  (INCLUSA L'ALFABETIZZAZIONE DIGITALE)"@it;
+  skos:prefLabel "FORMAZIONE DEL PERSONALE (INCLUSA L'ALFABETIZZAZIONE DIGITALE)"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/6_10_41" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/6_10_41_414> a :Categoria_di_intervento;
@@ -3870,10 +3870,10 @@
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/6_10_41" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/6_10_41_416> a :Categoria_di_intervento;
-  rdfs:label "FUNZIONAMENTO PROGRAMMI E PER LA MULTILEVEL GOVERNANCE (INCLUSA  LA CONSULTAZIONE DEL PARTENARIATO)"@it;
+  rdfs:label "FUNZIONAMENTO PROGRAMMI E PER LA MULTILEVEL GOVERNANCE (INCLUSA LA CONSULTAZIONE DEL PARTENARIATO)"@it;
   skos:inScheme <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento>;
   skos:notation "416";
-  skos:prefLabel "FUNZIONAMENTO PROGRAMMI E PER LA MULTILEVEL GOVERNANCE (INCLUSA  LA CONSULTAZIONE DEL PARTENARIATO)"@it;
+  skos:prefLabel "FUNZIONAMENTO PROGRAMMI E PER LA MULTILEVEL GOVERNANCE (INCLUSA LA CONSULTAZIONE DEL PARTENARIATO)"@it;
   skos:broader "https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Sottosettore_di_intervento/6_10_41" .
 
 <https://w3id.org/italia/PublicInvestment/controlled-vocabulary/classificazione_intervento/Categoria_di_intervento/6_10_41_417> a :Categoria_di_intervento;
